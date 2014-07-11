@@ -1,3 +1,18 @@
+## How to run the analysis
+To execute the scripts, you should copy them and the unzipped source data (household_power_consumption.csv) in your working directory.
+
+The result png files are created in your working directory.
+
+The use:
+* plot1("./household_power_consumption.csv") to get the first graph
+* plot2("./household_power_consumption.csv") to get the second graph
+* plot3("./household_power_consumption.csv") to get the third graph
+* plot4("./household_power_consumption.csv") to get the fourth graph
+
+## Structure of the github repository
+* code folder: contains the four R files
+* figures folder: contains the four png files
+
 ## Introduction
 
 This assignment uses data from
